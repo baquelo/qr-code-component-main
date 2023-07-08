@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Used this challenge to learn about Frontend Mentor and how to use it. I also practiced using CSS to align card in center page.
+I used this challenge to learn about Frontend Mentor and how to use it. I also practiced using CSS to align card in center page.
 
 ## Author
 
